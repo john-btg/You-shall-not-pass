@@ -20,3 +20,7 @@ La connexion au serveur par les clients est disponible.
 Création et importation de la base de données fournit.
 Création d'un user 'backend' qui a touts les droits sur la base de données fournit.
 Screenshot fait pour la soutenance des différentes étapes faite.
+
+06/11/2020
+Intégration du PHP pour faire fonctionner la page fournit .
+Correction des erreurs faite hier => Création du user et page non affiché. 
