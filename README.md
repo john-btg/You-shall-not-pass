@@ -24,3 +24,7 @@ Screenshot fait pour la soutenance des différentes étapes faite.
 06/11/2020
 Intégration du PHP pour faire fonctionner la page fournit .
 Correction des erreurs faite hier => Création du user et page non affiché. 
+
+
+09/11/2020
+Recherche sur la mise en place des règles de sécurité pour les différentes lan grace au fichier pf.conf 
