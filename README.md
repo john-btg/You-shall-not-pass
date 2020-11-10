@@ -28,3 +28,7 @@ Correction des erreurs faite hier => Création du user et page non affiché.
 
 09/11/2020
 Recherche sur la mise en place des règles de sécurité pour les différentes lan grace au fichier pf.conf 
+
+10/11/2020
+Reinstallation d'une VM suite à une erreur.
+Recherche sur la mise en place des règles de sécurité.
