@@ -32,3 +32,8 @@ Recherche sur la mise en place des règles de sécurité pour les différentes l
 10/11/2020
 Reinstallation d'une VM suite à une erreur.
 Recherche sur la mise en place des règles de sécurité.
+
+12/11/2020
+Commencement du Power Point pour la soutenance
+Follow-up
+Encore en phase de recherches pour la mise en place des règles de sécurité
