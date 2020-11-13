@@ -27,13 +27,19 @@ Correction des erreurs faite hier => Création du user et page non affiché.
 
 
 09/11/2020
-Recherche sur la mise en place des règles de sécurité pour les différentes lan grace au fichier pf.conf 
+Recherche sur la mise en place des règles de sécurité pour les différentes lan grace au fichier pf.conf. 
 
 10/11/2020
 Reinstallation d'une VM suite à une erreur.
 Recherche sur la mise en place des règles de sécurité.
 
 12/11/2020
-Commencement du Power Point pour la soutenance
-Follow-up
-Encore en phase de recherches pour la mise en place des règles de sécurité
+Commencement du Power Point pour la soutenance.
+Follow-up.
+Encore en phase de recherches pour la mise en place des règles de sécurité.
+
+
+13/11/2020
+Filtrage des paquets réussie.
+Mise en place d'une redirection du site  de HTTP vers HTTPS.
+Documentation sur création d'un serveur DNS.
